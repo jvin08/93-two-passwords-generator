@@ -1,17 +1,19 @@
 body {
     margin: 0;
     color: white;
+    background-color: #1C1C1C;
 }
 
 .card-container{
     width: 550px;
     height: 550px;
     background-color: #1F2937;
-    margin: 50px auto;
+    margin: 150px auto;
 }
 
 .card {
     padding: 50px;
+
 }
 
 h1{
